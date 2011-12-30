@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/lonelyfire2004/project/python/scrapy-scrapy-fac5e5e/scrapy'
+let g:netrw_dirhist_2='/Users/lonelyfire2004/.ssh'
+let g:netrw_dirhist_3='/Users/lonelyfire2004/project/js/test/node_modules'
